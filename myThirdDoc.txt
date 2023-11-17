@@ -1,2 +1,6 @@
 this is my third doc
 I have updated this docs
+trying to generate confilct.
+will then solve it.
+I have Resolved the conflict.
+now commiting again.
